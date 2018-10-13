@@ -1,0 +1,48 @@
+2018-03-15 16:31:15.830000 starting1...
+2018-03-15 16:31:15.830000 starting2...
+2018-03-15 16:31:15.830000 Traceback (most recent call last):
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 174, in <module>
+test3()
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 94, in inner
+f(*args, **kwargs)
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 172, in test3
+raise ValueError("eroare")
+ValueError
+: 
+eroare
+2018-03-15 16:31:27.127000 starting1...
+2018-03-15 16:31:27.127000 starting2...
+2018-03-15 16:31:27.127000 Traceback (most recent call last):
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 174, in <module>
+test3()
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 94, in inner
+f(*args, **kwargs)
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 172, in test3
+raise ValueError("eroare")
+ValueError
+: 
+eroare
+2018-03-15 16:31:37.796000 starting1...
+2018-03-15 16:31:37.796000 starting2...
+2018-03-15 16:31:37.796000 Traceback (most recent call last):
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 174, in <module>
+test3()
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 94, in inner
+f(*args, **kwargs)
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 172, in test3
+raise ValueError("eroare")
+ValueError
+: 
+eroare
+2018-03-15 16:32:56.443000 starting1...
+2018-03-15 16:32:56.443000 starting2...
+2018-03-15 16:32:56.443000 Traceback (most recent call last):
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 174, in <module>
+test3()
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 94, in inner
+f(*args, **kwargs)
+  File "D:/kituri/py_pack/my_packs/apihelper/apihelper/apihelper.py", line 172, in test3
+raise ValueError("eroare")
+ValueError
+: 
+eroare
